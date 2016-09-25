@@ -1563,14 +1563,13 @@
 			}
 
 		.wrapper.style1 {
-			background: #e97770 url("images/overlay.png");
-			color: #eee;
-			color: rgba(255, 255, 255, 0.75);
+			background: #ffffcc url("images/overlay.png");
+			color: #cc9966;
 		}
 
 			.wrapper.style1 .title {
-				background: #e97770 url("images/overlay.png");
-				color: #fff;
+				background: #ffffcc url("images/overlay.png");
+				color: #cc9966;
 			}
 
 			.wrapper.style1 h1, .wrapper.style1 h2, .wrapper.style1 h3, .wrapper.style1 h4, .wrapper.style1 h5, .wrapper.style1 h6, .wrapper.style1 strong, .wrapper.style1 b, .wrapper.style1 a {
@@ -1587,12 +1586,14 @@
 			}
 
 		.wrapper.style3 {
-			background: #f3f3f3 url("images/overlay.png");
+			background: #e97770 url("images/overlay.png");
+			color: #eee;
+			color: rgba(255, 255, 255, 0.75);
 		}
 
 			.wrapper.style3 .title {
-				background: #f3f3f3 url("images/overlay.png");
-				color: #484d55;
+				background: #e97770 url("images/overlay.png");
+				color: #fff;
 			}
 
 			.wrapper.style3 .image {
@@ -2121,11 +2122,14 @@
 				}
 
 				#intro > .style2 {
-					font-size: 2.25em;
+					font-size: 2em;
 					letter-spacing: 0.075em;
 					line-height: 1.35em;
 					padding: 1em;
 					margin-bottom: 1em;
+					background: #ffffcc url("images/overlay.png");
+					color: #cc9966;
+					border: #cc9966 1px solid;
 				}
 
 
