@@ -1600,8 +1600,8 @@
 			}
 
 	#header-wrapper {
-		background: url("../../images/banner.jpg") center center;
-		background-size: cover;
+		position: relative;
+		overflow: hidden;
 	}
 
 		#header-wrapper:before {
@@ -1613,6 +1613,13 @@
 			height: 100%;
 			background: url("images/overlay.png");
 		}
+
+	#header-banner {
+	    position: absolute;
+	    width: 100%;
+	    margin: -15% 0 0 0;
+	    opacity: 0.6;
+	}
 
 	#footer-wrapper {
 		background: #282b34 url("images/overlay.png");
