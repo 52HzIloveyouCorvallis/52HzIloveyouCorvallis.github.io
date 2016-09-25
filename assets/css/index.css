@@ -9,3 +9,12 @@
 	margin: 1em auto;
 	text-align: left;
 }
+
+.feature-list-item {
+	float: left;
+	width: 25%;
+}
+
+.cleaner {
+	clear: both;
+}
