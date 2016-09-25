@@ -2,3 +2,10 @@
 	color: red;
 	opacity: 1;
 }
+
+#details > .style3 {
+	font-size: 1em;
+	width: 62em;
+	margin: 1em auto;
+	text-align: left;
+}

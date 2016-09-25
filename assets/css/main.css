@@ -1578,11 +1578,11 @@
 			}
 
 		.wrapper.style2 {
-			background: #fff;
+			background: #ffd9b3;
 		}
 
 			.wrapper.style2 .title {
-				background: #fff;
+				background: #ffd9b3;
 				color: #484d55;
 			}
 
@@ -2128,12 +2128,6 @@
 					margin-bottom: 1em;
 				}
 
-				#intro > .style3 {
-					font-size: 1.1em;
-					width: 62em;
-					margin: 1em auto;
-					text-align: left;
-				}
 
 		/* Features */
 
