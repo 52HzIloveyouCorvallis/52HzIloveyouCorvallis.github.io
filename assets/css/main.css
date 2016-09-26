@@ -1600,6 +1600,15 @@
 				border: solid 10px #fff;
 			}
 
+		.wrapper.style4 {
+			background: #ccffcc;
+		}
+
+			.wrapper.style4 .title {
+				background: #ccffcc;
+				color: #484d55;
+			}
+
 	#header-wrapper {
 		position: relative;
 		overflow: hidden;
