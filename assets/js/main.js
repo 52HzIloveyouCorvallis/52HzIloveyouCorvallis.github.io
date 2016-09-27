@@ -55,6 +55,12 @@
 				detach: false
 			});
 
+		// Scrolly.
+			$('.scrolly')
+				.scrolly({
+					speed: 1500,
+				});
+
 		// Off-Canvas Navigation.
 
 			// Title Bar.
