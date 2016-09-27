@@ -18,3 +18,13 @@
 .cleaner {
 	clear: both;
 }
+
+#features ul li a {
+	color: #f2f2f2;
+}
+
+#features .button {
+	display: block;
+	width: 25%;
+	margin: 0px auto;
+}
