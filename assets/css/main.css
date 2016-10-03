@@ -1740,6 +1740,15 @@
 		text-transform: uppercase;
 	}
 
+	#logo a {
+		display: block;
+		margin-top: -3em;
+	}
+
+	#logo-img {
+		margin: 0 auto;
+	}
+
 /* Intro */
 
 	#intro > .style2 {
