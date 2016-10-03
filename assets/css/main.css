@@ -1487,7 +1487,7 @@
 /* Feature List */
 
 	.feature-list h3 {
-		color: #e97770 !important;
+		color: #b3003b !important;
 	}
 
 		.feature-list h3:before {
@@ -1498,6 +1498,12 @@
 			border-radius: 1em;
 			text-align: center;
 		}
+
+		.feature-list a{
+			color: #e97770;
+		}
+
+		
 
 /* Icons */
 
