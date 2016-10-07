@@ -68,3 +68,21 @@
 .movie_name {
 	font-style: italic;
 }
+
+.container-left {
+	float: left;
+	width: 65%;
+}
+
+.container-right {
+	float: right;
+	width: 30%;
+}
+
+.container-right img {
+	width: 100%;
+}
+
+.cleaner {
+	clear: both;
+}
