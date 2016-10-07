@@ -30,6 +30,11 @@
 	font-style: italic;	
 }
 
+#intro > .about-title {
+	margin-top: -1em;
+	font-weight: 600;
+}
+
 #details > .style3 {
 	font-size: 1em;
 	width: 62em;
