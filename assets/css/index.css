@@ -3,6 +3,26 @@
 	opacity: 1;
 }
 
+#intro a {
+	color: orange;
+}
+
+#intro p {
+	margin-bottom: 0.2em;
+	font-size: 1.2em;
+}
+
+#intro ul li {
+	font-size: 0.9em;
+}
+
+#intro > .style2 {
+	font-size: 1.5em;
+	font-weight: 500;
+	line-height: 150%;
+	font-style: italic;	
+}
+
 #details > .style3 {
 	font-size: 1em;
 	width: 62em;
