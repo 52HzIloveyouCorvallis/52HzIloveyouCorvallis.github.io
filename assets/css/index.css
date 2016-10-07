@@ -11,7 +11,7 @@
 	margin-bottom: 0.2em;
 }
 
-#intro > .p-title {
+#intro > .container-left > .p-title {
 	font-weight: 600;
 	font-style: italic;
 	font-size: 2em;
@@ -21,6 +21,7 @@
 
 #intro ul li {
 	font-size: 0.9em;
+	list-style: square;
 }
 
 #intro > .style2 {
@@ -30,7 +31,7 @@
 	font-style: italic;	
 }
 
-#intro > .about-title {
+#intro > .container-left > .about-title {
 	margin-top: -1em;
 	font-weight: 600;
 }
@@ -71,18 +72,32 @@
 
 .container-left {
 	float: left;
-	width: 65%;
+	width: 35%;
+}
+
+.container-left img {
+	width: 100%;
 }
 
 .container-right {
 	float: right;
-	width: 30%;
-}
-
-.container-right img {
-	width: 100%;
+	width: 60%;
 }
 
 .cleaner {
 	clear: both;
+}
+
+#intro > .container-left {
+	float: left;
+	width: 40%;
+}
+
+#intro > .container-right {
+	float: right;
+	width: 55%;
+}
+
+.container-right iframe {
+	width: 100%;
 }
