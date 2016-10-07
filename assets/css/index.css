@@ -9,7 +9,14 @@
 
 #intro p {
 	margin-bottom: 0.2em;
-	font-size: 1.2em;
+}
+
+#intro > .p-title {
+	font-weight: 600;
+	font-style: italic;
+	font-size: 2em;
+	margin: 0.5em 0;
+	text-decoration: underline;
 }
 
 #intro ul li {
