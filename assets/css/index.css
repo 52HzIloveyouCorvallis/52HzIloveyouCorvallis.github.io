@@ -30,6 +30,10 @@
 	text-align: left;
 }
 
+#details a {
+	color: orange;
+}
+
 .feature-list-item {
 	float: left;
 	width: 25%;
