@@ -11,12 +11,24 @@
 	margin-bottom: 0.2em;
 }
 
-#intro > .container-left > .p-title {
+#intro > .p-title {
 	font-weight: 600;
 	font-style: italic;
 	font-size: 2em;
 	margin: 0.5em 0;
 	text-decoration: underline;
+}
+
+#intro > .slogan-title {
+	text-align: center;
+	font-size: 2em;
+	font-weight: 700;
+	margin-bottom: 1em;
+}
+
+#intro > .slogan-details {
+	font-size: 1.3em;
+	margin-bottom: -0.5em;
 }
 
 #intro ul li {
