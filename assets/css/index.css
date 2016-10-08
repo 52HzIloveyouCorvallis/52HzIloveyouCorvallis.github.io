@@ -15,21 +15,26 @@
 	font-weight: 600;
 	font-style: italic;
 	font-size: 2em;
-	margin: 0.5em 0;
-	text-decoration: underline;
+	margin: 1em 0;
+	text-align: center;
+}
+
+#intro > .organizers {
+	font-size: 1.25em;
+	text-align: center;
+	margin-bottom: 1em;
 }
 
 #intro > .slogan-title {
 	text-align: center;
 	font-size: 2em;
 	font-weight: 700;
-	margin-bottom: 1em;
+	margin-bottom: 1.4em;
 }
 
 #intro > .slogan-details {
 	font-size: 1.3em;
 	font-weight: 700;
-	margin-bottom: -0.5em;
 }
 
 #intro ul li {
@@ -42,6 +47,10 @@
 	font-weight: 500;
 	line-height: 150%;
 	font-style: italic;	
+}
+
+#intro > .style3 {
+	margin-top: 1em;
 }
 
 #intro > .container-left > .about-title {
