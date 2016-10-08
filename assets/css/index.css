@@ -114,3 +114,21 @@
 .container-right iframe {
 	width: 100%;
 }
+
+#features > .container-left {
+	float: left;
+	width: 65%;
+}
+
+#features > .container-right {
+	float: right;
+	width: 30%;
+}
+
+#features > .container-right img {
+	width: 100%;
+}
+
+#buy-button {
+	margin-top: 20em;
+}
