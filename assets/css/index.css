@@ -120,6 +120,19 @@
 	width: 55%;
 }
 
+#intro > .second-container-left {
+	float: left;
+	width: 45%;
+	margin-top: 2em;
+}
+
+#intro > .second-container-right {
+	float: right;
+	width: 55%;
+	margin-top: 2em;
+	padding-left: 1em;
+}
+
 .container-right iframe {
 	width: 100%;
 }
@@ -141,4 +154,3 @@
 #features > .cleaner {
 	margin-bottom: 2em;
 }
-
