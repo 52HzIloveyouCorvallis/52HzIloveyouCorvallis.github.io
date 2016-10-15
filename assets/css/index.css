@@ -53,8 +53,8 @@
 	margin-top: 1em;
 }
 
-#intro > .container-left > .about-title {
-	margin-top: -1em;
+#intro > .about-title {
+	margin-top: 1em;
 	font-weight: 600;
 }
 
@@ -112,13 +112,12 @@
 
 #intro > .container-left {
 	float: left;
-	width: 45%;
-	padding-top: 1.2em;
+	width: 48%;
 }
 
 #intro > .container-right {
 	float: right;
-	width: 50%;
+	width: 48%;
 }
 
 #intro > .second-container-left {
