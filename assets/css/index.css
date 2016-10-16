@@ -113,24 +113,13 @@
 #intro > .container-left {
 	float: left;
 	width: 48%;
+	margin-bottom: 1.5em;
 }
 
 #intro > .container-right {
 	float: right;
 	width: 48%;
-}
-
-#intro > .second-container-left {
-	float: left;
-	width: 50%;
-	margin-top: 2em;
-}
-
-#intro > .second-container-right {
-	float: right;
-	width: 50%;
-	margin-top: 2em;
-	padding-left: 1.2em;
+	margin-bottom: 1.5em;
 }
 
 iframe {
